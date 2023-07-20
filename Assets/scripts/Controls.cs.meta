@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6bc24a3f8a6efdb4d88f6045322000a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _pressE: {instanceID: 0}
+  - punchBag: {instanceID: 0}
+  - treadmill: {instanceID: 0}
+  - bike: {instanceID: 0}
+  - runBar: {instanceID: 0}
+  - PunchBubble: {fileID: 5385383645302992312, guid: 5e3767cd84a51514c911d8c5b7133af0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
